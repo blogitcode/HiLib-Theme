@@ -18,4 +18,5 @@ The HiLib theme has been meticulously designed to deliver a superior Online Publ
 ![HiLib-detail-item](https://github.com/user-attachments/assets/eaf0c923-0508-45ce-8370-7a021f8be874)
 ![HiLib-nember](https://github.com/user-attachments/assets/e48c173a-8cfa-4b44-9bd8-2ed0de37c952)
 
-
+*** Download **
+ Link download: https://www.blogitcode.com/2025/06/hilib-theme-theme-for-opac-slims-9.html
